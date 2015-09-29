@@ -1,4 +1,6 @@
 # shirts4mike
-Welcome! This is my first PHP project based on the "Build a Simple PHP Application" lesson in Treehouse.
+A simple PHP eCommerce website application through Treehouse
 
-**Update 6/29/15**: There will be a new branch added/merged once I revisit to clean up the code with new PHP features I've learned -- stay tuned!
+My very first PHP project through Treehouse. Details coming soon.
+
+**Update 9/29/15**: Following along with the "Enhance a PHP Website" project on Treehouse, I will be revisiting this project shortly to improve on existing code! I'm excited to see how far I've come since first learning PHP and object-oriented programming principles.
