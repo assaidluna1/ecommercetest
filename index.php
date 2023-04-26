@@ -1,5 +1,5 @@
 <?php
-$pageTitle = "Shirts 4 Mike";
+$pageTitle = "Playeras MC";
 $section = "main";
 ?>
 
@@ -12,7 +12,7 @@ $section = "main";
 				<img class="hero" src="img/mike-the-frog.png" alt="Mike the Frog says:">
 				<div class="button">
 					<a href="shirts.php">
-						<h2>Hey, I&rsquo;m Mike!</h2>
+						<h2>Hey, I&rsquo;m MC!</h2>
 						<p>Check Out My Shirts</p>
 					</a>
 				</div>
