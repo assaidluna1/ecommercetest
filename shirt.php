@@ -23,7 +23,7 @@ if (!isset($product)) {
 		<div class="wrapper">
 
 			<div class="breadcrumb">
-				<a href="shirts.php">Shirts</a> &gt <?php echo $product["name"]; ?>
+				<a href="shirts.php">Playeras</a> &gt <?php echo $product["name"]; ?>
 			</div>
 
 			<div class="shirt-picture">
@@ -39,7 +39,7 @@ if (!isset($product)) {
 			<?php include('inc/form.php');								
 			echo generate_paypal_form($product); ?>
 
-				<p class="note-designer">* All shirts are designed by Mike the Frog.</p>
+				<p class="note-designer">* Todas las playeras.</p>
 			
 			</div>	
 

@@ -11,13 +11,13 @@
 
 		<div class="wrapper">
 
-			<h1 class="branding-title"><a href="./">Shirts 4 Mike</a></h1>
+			<h1 class="branding-title"><a href="./">Playeras MC</a></h1>
 
 			<ul class="nav">
 				<li class="shirts <?php if ($section == "shirts") { echo "on"; }  ?>
-										"><a href="shirts.php">Shirts</a></li>
+										"><a href="shirts.php">Playeras</a></li>
 				<li class="contact <?php if ($section == "contact") { echo "on"; } ?>
-										"><a href="contact.php">Contact</a></li>
+										"><a href="contact.php">Contacto</a></li>
 				<li class="cart"><a target="paypal" href="https://www.sandbox.paypal.com/cgi-bin/webscr?cmd=_cart&business=KPCELYRYNVS2Y&display=1">">Shopping Cart</a></li>
 			</ul>
 

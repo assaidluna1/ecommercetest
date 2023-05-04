@@ -7,7 +7,7 @@ include('inc/header.php'); ?>
 
 	<div class="wrapper">
 
-		<h1>Mike's Full Catalog Of Shirts</h1>
+		<h1>Todo el cat&acute;logo de playeras MC</h1>
 
 		<ul class = "products">
 		<?php include('inc/form.php');

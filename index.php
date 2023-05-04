@@ -12,8 +12,8 @@ $section = "main";
 				<img class="hero" src="img/mike-the-frog.png" alt="Mike the Frog says:">
 				<div class="button">
 					<a href="shirts.php">
-						<h2>Hey, I&rsquo;m MC!</h2>
-						<p>Check Out My Shirts</p>
+						<h2>Hola, soy MC!</h2>
+						<p>Revisa mi tienda</p>
 					</a>
 				</div>
 			</div>
@@ -24,7 +24,7 @@ $section = "main";
 
 			<div class="wrapper">
 
-				<h2>Mike&rsquo;s Latest Shirts</h2>
+				<h2>Lo último en playeras MC</h2>
 
 				<?php include("inc/product_list.php");
 					include("inc/form.php"); ?>
